@@ -12,3 +12,6 @@ As a CS minor student of IIT Kharagpur and a long-time self-taught learner, I ha
 
 ## Helpful Link For The Project: 
    Convolutional Networks [https://classroom.udacity.com/nanodegrees/nd101-innl/parts/2f2e89f4-2e40-46ac-8874-30cf49daf23c]
+   
+## Main Kaggle Competition link :
+Dog Breed Identification (https://www.kaggle.com/c/dog-breed-identification)
